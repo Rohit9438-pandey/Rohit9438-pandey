@@ -1,4 +1,4 @@
-![MasterHead](https://cdn2.vectorstock.com/i/1000x1000/55/56/programming-web-banner-vector-26895556.jpg)
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvQ9-nVWWKM-D_XQWP2q6622o0jM4zT4lJ8Q&usqp=CAU)
 
 <h1 align="center">Hi 👋, I'm Rohit Pandey</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
