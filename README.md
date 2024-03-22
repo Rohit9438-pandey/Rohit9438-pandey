@@ -1,4 +1,11 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvQ9-nVWWKM-D_XQWP2q6622o0jM4zT4lJ8Q&usqp=CAU)
+<masterhead>
+    <p align="center">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsLZf2EmbcbNoVvD6Cak3_mg0k-h7ua1AxmQ&usqp=CAU" alt="MasterHead" width="400">
+    </p>
+</masterhead>
+
+
+
 
 <h1 align="center">Hi 👋, I'm Rohit Pandey</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
