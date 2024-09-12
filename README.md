@@ -1,6 +1,6 @@
 <masterhead>
     <p align="center">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsLZf2EmbcbNoVvD6Cak3_mg0k-h7ua1AxmQ&usqp=CAU" alt="MasterHead" width="600" height="400">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsLZf2EmbcbNoVvD6Cak3_mg0k-h7ua1AxmQ&usqp=CAU" alt="MasterHead" width="600" height="500">
     </p>
 </masterhead>
 
